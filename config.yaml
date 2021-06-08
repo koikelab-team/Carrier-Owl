@@ -7,6 +7,8 @@ keywords:
         animations: 1
         animated: 1
         articulated: 1
+        avatar: 1
+        avatars: 1
         body: 1
         cloud: 1
         compression: 1
@@ -18,9 +20,9 @@ keywords:
         koopman: 1
         laplacian: 1
         laplacians: 1
-        material: 1
-        mesh: 1
-        nerf: 1
+        material: 2
+        mesh: 2
+        nerf: 2
         point: 1
         polygon: 1
         reconstruction: 1
