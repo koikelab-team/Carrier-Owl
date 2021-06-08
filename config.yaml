@@ -13,23 +13,53 @@ keywords:
         cloud: 1
         compression: 1
         decomposition: 1
+        deformable: 1
+        deformation: 1
         differentiable: 1
+        dynamics: 1
         face: 1
+        frequency: 1
+        geometric: 1
         geometry: 1
+        grid: 1
         implicit: 1
+        inverse: 1
+        irradiance: 1
         koopman: 1
         laplacian: 1
         laplacians: 1
         material: 2
+        materials: 2
+        marching cube: 2
+        marching cubes: 2
         mesh: 2
+        microfacet: 1
+        multigrid: 1
+        multi-grid: 1
+        multiview: 2
+        multi-view: 2
         nerf: 2
         point: 1
         polygon: 1
+        radiance: 1
+        rasterization: 1
+        rasterizer: 1
+        ray tracing: 2
+        ray tracer: 2
         reconstruction: 1
         renderer: 1
         rendering: 1
+        sdf: 2
+        skinning: 1
         spectral: 1
+        specular: 1
         spherical: 1
+        subdivision: 1
+        surface: 1
+        surfaces: 1
+        triangulation: 1
+        triangulations: 1
+        view synthesis: 3
         volume: 1
         volumetric: 1
         
