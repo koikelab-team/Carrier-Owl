@@ -1,11 +1,37 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.CV OR cat:cs.GR OR cat:cs.HC'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        3d: 1
+        animation: 1
+        animations: 1
+        animated: 1
+        articulated: 1
+        body: 1
+        cloud: 1
+        compression: 1
+        decomposition: 1
+        differentiable: 1
+        face: 1
+        geometry: 1
+        implicit: 1
+        koopman: 1
+        laplacian: 1
+        laplacians: 1
+        material: 1
+        mesh: 1
+        nerf: 1
+        point: 1
+        polygon: 1
+        reconstruction: 1
+        renderer: 1
+        rendering: 1
+        spectral: 1
+        spherical: 1
+        volume: 1
+        volumetric: 1
+        
 
 # 通知の閾値
 score_threshold: 0
