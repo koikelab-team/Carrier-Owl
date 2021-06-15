@@ -29,6 +29,7 @@ keywords:
         inverse: 1
         irradiance: 1
         koopman: 1
+        laplace-beltrami: 2
         laplacian: 1
         laplacians: 1
         material: 2
