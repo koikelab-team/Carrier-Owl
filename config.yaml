@@ -17,11 +17,13 @@ keywords:
         deformation: 1
         differentiable: 1
         dynamics: 1
+        fabrication: 1
         face: 1
         frequency: 1
         geometric: 1
         geometry: 1
         grid: 1
+        haptic: 1
         implicit: 1
         inverse: 1
         irradiance: 1
