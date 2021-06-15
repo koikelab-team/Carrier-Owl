@@ -47,9 +47,11 @@ keywords:
         photogrammetry: 1
         photometric: 1
         photometry: 1
+        photon: 1
         point: 1
         polygon: 1
         radiance: 1
+        radiosity: 1
         rasterization: 1
         rasterizer: 1
         ray tracing: 2
@@ -73,7 +75,7 @@ keywords:
         texturing: 1
         triangulation: 1
         triangulations: 1
-        view synthesis: 3
+        view synthesis: 2
         volume: 1
         volumetric: 1
         
