@@ -33,12 +33,17 @@ keywords:
         marching cube: 2
         marching cubes: 2
         mesh: 2
+        meshing: 1
         microfacet: 1
         multigrid: 1
         multi-grid: 1
         multiview: 2
         multi-view: 2
         nerf: 2
+        pbr: 1
+        photogrammetry: 1
+        photometric: 1
+        photometry: 1
         point: 1
         polygon: 1
         radiance: 1
@@ -47,9 +52,13 @@ keywords:
         ray tracing: 2
         ray tracer: 2
         reconstruction: 1
+        remeshing: 1
         renderer: 1
         rendering: 1
+        rotation: 1
         sdf: 2
+        shader: 1
+        shading: 1
         skinning: 1
         spectral: 1
         specular: 1
@@ -57,6 +66,8 @@ keywords:
         subdivision: 1
         surface: 1
         surfaces: 1
+        texture: 1
+        texturing: 1
         triangulation: 1
         triangulations: 1
         view synthesis: 3
