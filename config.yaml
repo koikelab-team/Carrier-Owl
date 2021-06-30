@@ -9,7 +9,6 @@ keywords:
         articulated: 1
         avatar: 1
         avatars: 1
-        body: 1
         cloud: 1
         compression: 1
         decomposition: 1
@@ -18,7 +17,6 @@ keywords:
         differentiable: 1
         dynamics: 1
         fabrication: 1
-        face: 1
         frequency: 1
         geometric: 1
         geometry: 1
