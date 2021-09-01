@@ -4,24 +4,24 @@ subject: 'cat:cs.CV OR cat:cs.GR OR cat:cs.HC'
 # 検索キーワード
 keywords:
         animation: 1
-        animations: 1
         animated: 1
         articulated: 1
-        avatar: 1
-        avatars: 1
         cloud: 1
-        compression: 1
+        compression: 2
+        curvature: 1
         decomposition: 1
         deformable: 1
         deformation: 1
         differentiable: 1
         dynamics: 1
         fabrication: 1
+        FEM: 1
+        FLIP: 1
+        fluid: 1
         frequency: 1
         geometric: 1
         geometry: 1
         grid: 1
-        haptic: 1
         illumination: 1
         implicit: 1
         inverse: 1
@@ -29,25 +29,28 @@ keywords:
         koopman: 1
         laplace-beltrami: 2
         laplacian: 1
-        laplacians: 1
-        material: 2
-        materials: 2
-        marching cube: 2
-        marching cubes: 2
+        level set: 1
+        material: 1
+        material point method: 2
+        marching cubes: 1
         mesh: 2
-        meshing: 1
+        model reduction: 2
         microfacet: 1
         multigrid: 1
         multi-grid: 1
         multiview: 2
         multi-view: 2
         nerf: 2
+        octree: 1
         pbr: 1
         photogrammetry: 1
         photometric: 1
         photometry: 1
         photon: 1
+        physics: 1
+        PIC: 1
         point: 1
+        positional encoding: 1
         polygon: 1
         radiance: 1
         radiosity: 1
@@ -62,17 +65,19 @@ keywords:
         sdf: 2
         shader: 1
         shading: 1
+        simulation: 1
         skinning: 1
         spectral: 1
         specular: 1
+        SPH: 1
         spherical: 1
         subdivision: 1
         surface: 1
-        surfaces: 1
         texture: 1
-        texturing: 1
         triangulation: 1
         triangulations: 1
+        TV transform: 3
+        upsampling: 1
         view synthesis: 2
         volume: 1
         volumetric: 1
