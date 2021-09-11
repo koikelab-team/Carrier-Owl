@@ -6,6 +6,7 @@ keywords:
         animation: 1
         animated: 1
         articulated: 1
+        avatar: 1
         cloud: 1
         compression: 2
         curvature: 1
@@ -22,6 +23,7 @@ keywords:
         geometric: 1
         geometry: 1
         grid: 1
+        hydrodynamics: 1
         illumination: 1
         implicit: 1
         inverse: 1
@@ -42,13 +44,14 @@ keywords:
         multi-view: 2
         nerf: 2
         octree: 1
+        particle: 1
+        particle-in-cell: 2
         pbr: 1
         photogrammetry: 1
         photometric: 1
         photometry: 1
         photon: 1
         physics: 1
-        PIC: 1
         point: 1
         positional encoding: 1
         polygon: 1
@@ -61,6 +64,7 @@ keywords:
         remeshing: 1
         renderer: 1
         rendering: 1
+        rigging: 1
         rotation: 1
         sdf: 2
         shader: 1
@@ -69,7 +73,6 @@ keywords:
         skinning: 1
         spectral: 1
         specular: 1
-        SPH: 1
         spherical: 1
         subdivision: 1
         surface: 1
@@ -81,6 +84,7 @@ keywords:
         view synthesis: 2
         volume: 1
         volumetric: 1
+        voxel: 1
         
 
 # 通知の閾値
