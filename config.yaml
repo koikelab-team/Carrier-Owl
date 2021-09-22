@@ -13,13 +13,13 @@ keywords:
         decomposition: 1
         deformable: 1
         deformation: 1
-        differentiable: 1
         dynamics: 1
         fabrication: 1
         FEM: 1
         FLIP: 1
         fluid: 1
         frequency: 1
+        garment: 1
         geometric: 1
         geometry: 1
         grid: 1
@@ -28,13 +28,13 @@ keywords:
         implicit: 1
         inverse: 1
         irradiance: 1
-        koopman: 1
+        koopman: 2
         laplace-beltrami: 2
         laplacian: 1
         level set: 1
         material: 1
         material point method: 2
-        marching cubes: 1
+        marching cubes: 2
         mesh: 2
         model reduction: 2
         microfacet: 1
@@ -53,7 +53,7 @@ keywords:
         photon: 1
         physics: 1
         point: 1
-        positional encoding: 1
+        positional encoding: 2
         polygon: 1
         radiance: 1
         radiosity: 1
@@ -61,7 +61,7 @@ keywords:
         rasterizer: 1
         ray tracing: 2
         ray tracer: 2
-        remeshing: 1
+        remeshing: 2
         renderer: 1
         rendering: 1
         rigging: 1
@@ -79,7 +79,7 @@ keywords:
         texture: 1
         triangulation: 1
         triangulations: 1
-        TV transform: 3
+        TV transform: 2
         upsampling: 1
         view synthesis: 2
         volume: 1
@@ -88,4 +88,4 @@ keywords:
         
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2.0
