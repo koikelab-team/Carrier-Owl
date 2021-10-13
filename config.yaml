@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.CV OR cat:cs.GR OR cat:cs.HC'
+subject: 'cat:cs.GR OR cat:cs.HC'
 
 # 検索キーワード
 keywords:
@@ -88,4 +88,4 @@ keywords:
         
 
 # 通知の閾値
-score_threshold: 2.0
+score_threshold: 0.0
