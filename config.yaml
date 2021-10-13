@@ -12,7 +12,7 @@ keywords:
         curvature: 1
         decomposition: 1
         deformable: 1
-        deformation: 1
+        deformation: 2
         dynamics: 1
         fabrication: 1
         FEM: 1
