@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.GR OR cat:cs.HC'
+subject: 'cat:cs.GR OR cat:cs.CV OR cat:cs.HC'
 
 # 検索キーワード
 keywords:
@@ -21,7 +21,7 @@ keywords:
         frequency: 1
         garment: 1
         geometric: 1
-        geometry: 1
+        geometry: 2
         grid: 1
         hydrodynamics: 1
         illumination: 1
@@ -69,6 +69,7 @@ keywords:
         sdf: 2
         shader: 1
         shading: 1
+        signed distance field: 1
         simulation: 1
         skinning: 1
         spectral: 1
@@ -84,8 +85,9 @@ keywords:
         view synthesis: 2
         volume: 1
         volumetric: 1
-        voxel: 1
+        voxel: 2
+        winding number: 2
         
 
 # 通知の閾値
-score_threshold: 0.0
+score_threshold: 2.0
