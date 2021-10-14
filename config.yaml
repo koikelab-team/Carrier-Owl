@@ -75,6 +75,7 @@ keywords:
         multi-view: 2
         nerf: 2
         neurosurgery: -1
+        object classification: -1
         object detection: -1
         object estimation: -1
         occlusion: 1
@@ -108,6 +109,7 @@ keywords:
         rendering: 1
         rigging: 1
         rotation: 1
+        semantic segmentation: -1
         sdf: 2
         shader: 1
         shading: 1
