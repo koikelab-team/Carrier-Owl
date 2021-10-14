@@ -5,6 +5,7 @@ subject: 'cat:cs.GR OR cat:cs.CV OR cat:cs.HC'
 keywords:
         aerial image: -2
         Alzheimer: -2
+        ambient: 1
         animation: 1
         animated: 1
         articulated: 1
@@ -14,6 +15,7 @@ keywords:
         bobsled: -1
         brain: -1
         CAD: 1
+        cage: 1
         cardiac: -2
         choroid plexus: -2
         cloud: 1
@@ -30,10 +32,12 @@ keywords:
         deep learning: -1
         deformable: 1
         deformation: 3
+        dynamic: 1
         dynamics: 1
         EMG: -1
         fabrication: 1
         FEM: 1
+        FFD: 1
         FLIP: 1
         fluid: 1
         frequency: 1
@@ -63,6 +67,7 @@ keywords:
         microfacet: 1
         model reduction: 2
         monte carlo: 1
+        morphology: 1
         MRI: -2
         multigrid: 1
         multi-grid: 1
@@ -72,10 +77,13 @@ keywords:
         neurosurgery: -1
         object detection: -1
         object estimation: -1
+        occlusion: 1
         octree: 1
+        parameterization: 1
         particle: 1
-        particle-in-cell: 2
+        particle-in-cell: 3
         pbr: 1
+        PCA: 1
         photogrammetry: 1
         photometric: 1
         photometry: 1
@@ -84,6 +92,8 @@ keywords:
         point: 1
         positional encoding: 2
         polygon: 1
+        primitive: 1
+        principal component analysis: 1
         projective dynamics: 2
         pulmonary fibrosis: -2
         radiance: 1
@@ -92,7 +102,8 @@ keywords:
         rasterizer: 1
         ray tracing: 2
         ray tracer: 2
-        remeshing: 2
+        reflectance: 1
+        remeshing: 3
         renderer: 1
         rendering: 1
         rigging: 1
@@ -102,11 +113,14 @@ keywords:
         shading: 1
         signed distance field: 2
         simulation: 1
+        skeletonization: 1
         skinning: 2
         smart: -1
+        smoothed particle: 2
         spectral: 1
         specular: 1
         spherical: 1
+        splash: 1
         subdivision: 1
         surface: 1
         surgical: -1
@@ -118,6 +132,7 @@ keywords:
         TV transform: 2
         upsampling: 1
         vehicle: -1
+        vertex: 1
         view synthesis: 2
         volume: 1
         volumetric: 1
