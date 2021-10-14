@@ -38,12 +38,12 @@ keywords:
         inverse: 1
         irradiance: 1
         koopman: 2
-        laplace-beltrami: 4
+        laplace-beltrami: 3
         laplacian: 1
         level set: 1
         lung: -1
         material: 1
-        material point method: 4
+        material point method: 3
         marching cubes: 2
         mesh: 2
         microfacet: 1
@@ -85,7 +85,7 @@ keywords:
         shading: 1
         signed distance field: 2
         simulation: 1
-        skinning: 1
+        skinning: 2
         spectral: 1
         specular: 1
         spherical: 1
