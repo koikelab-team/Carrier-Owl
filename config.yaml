@@ -55,6 +55,7 @@ keywords:
         point: 1
         positional encoding: 2
         polygon: 1
+        projective dynamics: 2
         radiance: 1
         radiosity: 1
         rasterization: 1
