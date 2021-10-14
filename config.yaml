@@ -109,6 +109,7 @@ keywords:
         spherical: 1
         subdivision: 1
         surface: 1
+        surgical: -1
         tactile: 1
         telepresence: -1
         texture: 1
