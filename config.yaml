@@ -3,18 +3,23 @@ subject: 'cat:cs.GR OR cat:cs.CV OR cat:cs.HC'
 
 # 検索キーワード
 keywords:
+        aerial image: -2
         animation: 1
         animated: 1
         articulated: 1
+        automotive: -1
+        autonomous driving: -1
         avatar: 1
         CAD: 1
+        cardiac excitation waves: -2
         cloud: 1
-        compression: 2
+        chromosome: -2
+        compression: 3
+        CT scan: -2
         curvature: 1
-        data structure: 1
         decomposition: 1
         deformable: 1
-        deformation: 2
+        deformation: 3
         dynamics: 1
         fabrication: 1
         FEM: 1
@@ -25,26 +30,30 @@ keywords:
         geometric: 1
         geometry: 2
         grid: 1
+        histopathology: -2
         hydrodynamics: 1
         illumination: 1
         implicit: 1
         inverse: 1
         irradiance: 1
         koopman: 2
-        laplace-beltrami: 2
+        laplace-beltrami: 4
         laplacian: 1
         level set: 1
+        lung: -1
         material: 1
-        material point method: 2
+        material point method: 4
         marching cubes: 2
         mesh: 2
-        model reduction: 2
         microfacet: 1
+        model reduction: 2
+        monte carlo: 1
         multigrid: 1
         multi-grid: 1
         multiview: 2
         multi-view: 2
         nerf: 2
+        object detection: -1
         octree: 1
         particle: 1
         particle-in-cell: 2
@@ -58,6 +67,7 @@ keywords:
         positional encoding: 2
         polygon: 1
         projective dynamics: 2
+        pulmonary fibrosis: -2
         radiance: 1
         radiosity: 1
         rasterization: 1
@@ -72,7 +82,7 @@ keywords:
         sdf: 2
         shader: 1
         shading: 1
-        signed distance field: 1
+        signed distance field: 2
         simulation: 1
         skinning: 1
         spectral: 1
