@@ -3,8 +3,30 @@ subject: 'cat:cs.GR OR cat:cs.CV OR cat:cs.HC'
 
 # 検索キーワード
 keywords:
-        aerial image: -2
+        equirectangular: 1
+        table teniss: 1
+        haptic: 1
+        motion: 1
+        fisheye: 1
+        pose estimation: 1
+        360-degree: 1
+        omnidirectional: 1
+        deformatble: 1
+        tabletop: 1
+        golf: 1
+        skiing: 1
+        virtual reality: 1
+        augmented reality: 1
+        forecasting: 1
+        projector-camera: 1
+        sports: 1
+        projection mapping: 1
+        spherical projection: 1
+        real-time tracking: 1
+        spherical display: 1
+        
+        
         
 
 # 通知の閾値
-score_threshold: 2.0
+score_threshold: 1.0
