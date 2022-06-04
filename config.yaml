@@ -3,29 +3,53 @@ subject: 'cat:cs.GR OR cat:cs.CV OR cat:cs.HC'
 
 # 検索キーワード
 keywords:
-        equirectangular: 1
-        table teniss: 1
-        haptic: 1
-        motion: 1
-        fisheye: 1
-        pose estimation: 1
         360-degree: 1
-        omnidirectional: 1
-        deformatble: 1
-        tabletop: 1
-        golf: 1
-        skiing: 1
-        virtual reality: 1
         augmented reality: 1
+        blendshape: 1
+        deformatble: 1
+        deformation: 1
+        DPM: 1
+        dynamic: 1
+        equirectangular: 1
+        fisheye: 1
         forecasting: 1
-        projector-camera: 1
-        sports: 1
+        gaze: 1
+        golf: 1
+        grip: 1
+        haptic: 1
+        illusion: 1
+        inverse kinematics: 1
+        light transport: 1
+        material: 1
+        motion: 1
+        non-rigid: 1
+        omnidirectional: 1
+        perception: 1
         projection mapping: 1
-        spherical projection: 1
+        projector-camera: 1
+        pseudo: 1
+        pose estimation: 1
+        ray tracing: 1
         real-time tracking: 1
-        spherical display: 1
+        retargeting: 1
+        robot arm: 1
+        screen space: 1
+        skeleton: 1
+        skiing: 1
+        skinning: 1
+        spatial: 1
+        spherical: 1
+        sports: 1
+        stereoscopic: 1
+        transfer: 1
+        table teniss: 1
+        tabletop: 1
+        tangible: 1
+        texture: 1
+        virtual reality: 1
+        volumetric: 1
         
        
 
 # 通知の閾値
-score_threshold: 1.0
+score_threshold: 2.0
